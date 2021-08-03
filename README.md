@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JJJJ096
-- 👀 I’m interested in deep-learning
+- 👀 I’m interested in deep-learning, operation monitoring
 - 📫 jkluio898@hanyang.ac.kr
 
 <!---
