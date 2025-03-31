@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JJJJ096
-- 👀 I’m interested in deep-learning, operation monitoring
+- 👀 I’m interested in metal-additive manufacturing process, process monitoring, machine learning
 - 📫 jkluio898@hanyang.ac.kr
 
 <!---
